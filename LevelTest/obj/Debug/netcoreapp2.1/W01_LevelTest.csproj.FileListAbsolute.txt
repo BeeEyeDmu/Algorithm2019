@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\bin\Debug\netcoreapp2.1\W01_LevelTest.deps.json
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\bin\Debug\netcoreapp2.1\W01_LevelTest.runtimeconfig.json
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\bin\Debug\netcoreapp2.1\W01_LevelTest.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\bin\Debug\netcoreapp2.1\W01_LevelTest.dll
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\bin\Debug\netcoreapp2.1\W01_LevelTest.pdb
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\obj\Debug\netcoreapp2.1\W01_LevelTest.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\obj\Debug\netcoreapp2.1\W01_LevelTest.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\obj\Debug\netcoreapp2.1\W01_LevelTest.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\obj\Debug\netcoreapp2.1\W01_LevelTest.AssemblyInfo.cs
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\obj\Debug\netcoreapp2.1\W01_LevelTest.dll
+C:\Users\HP\source\repos\Algorithm2019\LevelTest\obj\Debug\netcoreapp2.1\W01_LevelTest.pdb

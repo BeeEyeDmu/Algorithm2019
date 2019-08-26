@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2_Euclid", "Algorithm2019\Ch2_Euclid.csproj", "{72123220-ACD2-4A6F-96DF-E322B0526AB6}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2_SortAlgorithms", "Ch2_SortAlgorithms\Ch2_SortAlgorithms.csproj", "{58F412D2-D2B4-4A85-9378-C3579DDC704A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch3_ClosestPair", "Ch3_ClosestPair\Ch3_ClosestPair.csproj", "{1032E92E-588D-41EE-A15B-3A9C46896557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W01_LevelTest", "LevelTest\W01_LevelTest.csproj", "{D707E3AB-6582-4DA1-9F69-5E5B80F72F01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1032E92E-588D-41EE-A15B-3A9C46896557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1032E92E-588D-41EE-A15B-3A9C46896557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1032E92E-588D-41EE-A15B-3A9C46896557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D707E3AB-6582-4DA1-9F69-5E5B80F72F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D707E3AB-6582-4DA1-9F69-5E5B80F72F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D707E3AB-6582-4DA1-9F69-5E5B80F72F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D707E3AB-6582-4DA1-9F69-5E5B80F72F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
