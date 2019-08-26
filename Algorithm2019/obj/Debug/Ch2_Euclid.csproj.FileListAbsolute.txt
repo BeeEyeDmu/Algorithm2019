@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\bin\Debug\Algorithm2019.exe.config
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\bin\Debug\Algorithm2019.exe
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\bin\Debug\Algorithm2019.pdb
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\Ch2_Euclid.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\Algorithm2019_MarkupCompile.cache
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\Algorithm2019_MarkupCompile.lref
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\Algorithm2019.g.resources
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\Algorithm2019.Properties.Resources.resources
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\Ch2_Euclid.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\Ch2_Euclid.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\Algorithm2019.exe
+C:\Users\HP\source\repos\Algorithm2019\Algorithm2019\obj\Debug\Algorithm2019.pdb

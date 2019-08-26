@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\bin\Debug\Ch2_SortAlgorithms.exe.config
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\bin\Debug\Ch2_SortAlgorithms.exe
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\bin\Debug\Ch2_SortAlgorithms.pdb
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms_MarkupCompile.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms_MarkupCompile.lref
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.g.resources
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.Properties.Resources.resources
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.exe
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.pdb

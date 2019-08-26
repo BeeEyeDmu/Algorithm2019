@@ -27,7 +27,8 @@ namespace Ch2_Fibonacci
 
     private void Button_Click(object sender, RoutedEventArgs e)
     {
-      lstResult.Items.Clear();
+      lstResult.Items.Clear();  // 즉시 지워지지 않는 이유는??
+
 
       var watch = System.Diagnostics.Stopwatch.StartNew();
       for(int i=1; i<=int.Parse(txtNumber.Text); i++)

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\bin\Debug\Ch2_Factorial.exe.config
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\bin\Debug\Ch2_Factorial.exe
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\bin\Debug\Ch2_Factorial.pdb
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\Ch2_Factorial.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\Ch2_Factorial_MarkupCompile.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\Ch2_Factorial_MarkupCompile.lref
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\Ch2_Factorial.g.resources
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\Ch2_Factorial.Properties.Resources.resources
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\Ch2_Factorial.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\Ch2_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\Ch2_Factorial.exe
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Factorial\obj\Debug\Ch2_Factorial.pdb
