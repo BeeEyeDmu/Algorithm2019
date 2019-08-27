@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\bin\Debug\Ch3_ClosestPair.exe.config
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\bin\Debug\Ch3_ClosestPair.exe
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\bin\Debug\Ch3_ClosestPair.pdb
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\Ch3_ClosestPair.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\Ch3_ClosestPair_MarkupCompile.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\Ch3_ClosestPair_MarkupCompile.lref
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\Ch3_ClosestPair.g.resources
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\Ch3_ClosestPair.Properties.Resources.resources
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\Ch3_ClosestPair.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\Ch3_ClosestPair.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\Ch3_ClosestPair.exe
+C:\Users\HP\source\repos\Algorithm2019\Ch3_ClosestPair\obj\Debug\Ch3_ClosestPair.pdb
