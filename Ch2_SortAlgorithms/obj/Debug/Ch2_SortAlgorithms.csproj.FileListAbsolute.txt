@@ -12,3 +12,4 @@ C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgo
 C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.exe
 C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.pdb
+C:\Users\HP\source\repos\Algorithm2019\Ch2_SortAlgorithms\obj\Debug\Ch2_SortAlgorithms.csprojAssemblyReference.cache

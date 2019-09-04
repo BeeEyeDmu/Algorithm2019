@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\bin\Debug\netcoreapp2.1\Ch2_Hanoi.deps.json
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\bin\Debug\netcoreapp2.1\Ch2_Hanoi.runtimeconfig.json
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\bin\Debug\netcoreapp2.1\Ch2_Hanoi.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\bin\Debug\netcoreapp2.1\Ch2_Hanoi.dll
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\bin\Debug\netcoreapp2.1\Ch2_Hanoi.pdb
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\obj\Debug\netcoreapp2.1\Ch2_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\obj\Debug\netcoreapp2.1\Ch2_Hanoi.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\obj\Debug\netcoreapp2.1\Ch2_Hanoi.AssemblyInfo.cs
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\obj\Debug\netcoreapp2.1\Ch2_Hanoi.dll
+C:\Users\HP\source\repos\Algorithm2019\Ch2_Hanoi\obj\Debug\netcoreapp2.1\Ch2_Hanoi.pdb
