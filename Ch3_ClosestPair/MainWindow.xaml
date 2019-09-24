@@ -13,7 +13,8 @@
     </Grid>
     <Grid Height="30">
       <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-        <Button Width="100" x:Name="btnCreate" Content="생성" Height="30" VerticalAlignment="Top" Click="BtnCreate_Click"/>
+        <Button Width="100" x:Name="btnCreate" Content="생성" Height="30" 
+                VerticalAlignment="Top" Click="BtnCreate_Click"/>
         <TextBlock Width="50"/>
         <Button Width="100" x:Name="btnFind" Content="찾기" Click="BtnFind_Click"/>
       </StackPanel>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="QuickSort.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuickSort"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="579.911" Width="800">
+    <Grid>
+        <Button Content="QuickSort" Margin="357,49,360,0" Click="Qsort_Click" Height="48" VerticalAlignment="Top"/>
+        <TextBox x:Name="lbl" Background="AntiqueWhite" Margin="20,119,19,34" TextWrapping="Wrap" 
+                 ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto" />
+
+    </Grid>
+</Window>
