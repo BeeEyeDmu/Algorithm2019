@@ -7,9 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="579.911" Width="800">
     <Grid>
-        <Button Content="QuickSort" Margin="357,49,360,0" Click="Qsort_Click" Height="48" VerticalAlignment="Top"/>
-        <TextBox x:Name="lbl" Background="AntiqueWhite" Margin="20,119,19,34" TextWrapping="Wrap" 
-                 ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto" />
+        <Button Content="QuickSort" Margin="357,49,360,0" Click="Qsort_Click" 
+                Height="48" VerticalAlignment="Top"/>
+        <TextBox x:Name="lbl" Background="AntiqueWhite" Margin="20,119,19,34" 
+                 TextWrapping="Wrap" 
+                 ScrollViewer.CanContentScroll="True" 
+                 ScrollViewer.VerticalScrollBarVisibility="Auto" />
 
     </Grid>
 </Window>
